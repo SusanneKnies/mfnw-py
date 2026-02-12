@@ -18,6 +18,7 @@
 ## TBD
 - Text zu Shannon schreiben
 - Text zu Bev_Holt
+- Blatt 3&4 überarbeiten
 
 ## Weitere Ideen
 - Mathe/Komplexe Zahlen: Vektoren plotten, Rechnungen visualisieren
