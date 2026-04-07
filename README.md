@@ -41,6 +41,8 @@
     - assertions einbauen
 - for-Schleife bei Matrix-Vektor-Mult. einführen (Produkt quasi per Hand berechnen)
 - Determinante einer Matrix + Visualisierung mithilfe von Parallelogramm
+- Blatt04: 
+    - List-Comprehension genauer erläutern
 
 # Übersicht alt
 
