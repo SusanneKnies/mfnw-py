@@ -40,6 +40,7 @@
     - Variablen deklarieren
     - Wertbereiche überprüfen
     - Default-Werte setzen
+- Anmerkung: Es wäre vorher sinnvoll Logik und Variablentypen einzuführen
 
 # Brainstorm weitere Ideen
 - Funktionen:
