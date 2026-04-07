@@ -34,6 +34,13 @@
 - Funktion schreiben, welche die nächsten $n$ Pop.-zustände ausgibt
 - Diese in einer Grafik darstellen
 
+## Beverton_Holt
+- Fkt. für Beverton-Holt Modell schreiben (gleiches Prinzip wie bei Leslie-Matrix)
+- Fkt. erweitern:
+    - Variablen deklarieren
+    - Wertbereiche überprüfen
+    - Default-Werte setzen
+
 # Brainstorm weitere Ideen
 - Funktionen:
     - default-Werte setzen
@@ -43,6 +50,9 @@
 - Determinante einer Matrix + Visualisierung mithilfe von Parallelogramm
 - Blatt04: 
     - List-Comprehension genauer erläutern
+- Hinweise zur Reihenfolge der Ausführung der Zellen. (z.B. wenn `np` irgendwo verwendet wird muss vorher `import numpy as np` 
+ausgeführt werden). Ebenso Hinweis zu Initialisierung von Werten.
+
 
 # Übersicht alt
 
