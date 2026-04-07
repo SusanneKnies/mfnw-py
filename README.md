@@ -5,35 +5,42 @@
 - Einfacher Code um die Fkt. $x^2$ zu plotten
 - Kleinere ÜA um Parameter im Plot zu ändern
 
-## Blatt 01
+## Blätter/Blatt01
 - Vektoren in `python`, einmal als `tuple`, einmal als `numpy-array`.
 - Vor- und Nachteile der zwei Methoden
 - Code um Vektoren zu plotten
 - Code um eine Menge zu plotten
 - ÜA: Rechnen mit Vektoren, Betrag von Vektoren berechnen
 
-## Blatt 03
+## Blätter/Blatt03
 - Matrizen in `numpy`
 - Matrix-Vektor-Multiplikation
 - LGS mit `python` lösen
 - Eigenwerte und Eigenvektoren (TBD)
 
-## Blatt 04
+## Blätter/Blatt04
 - Vektoren plotten
 - Funktion dafür schreiben, hierfür:
     - Einf. Listen
     - Einf. for-Schleife
 - Fkt. um Vektoren zu plotten
 
-## Komplexe Zahlen
+## Mathe/KomplexeZahlen
 - Darstellung komplexer Zahlen in `python`
 - Rechenregeln komplese Zahlen
 - Visualisierung mit `matplotlib`
 
-## Leslie-Matrix
+## Mathe/Leslie-Matrix
 - Funktion schreiben, welche die nächsten $n$ Pop.-zustände ausgibt
 - Diese in einer Grafik darstellen
 
+# Brainstorm weitere Ideen
+- Funktionen:
+    - default-Werte setzen
+    - Datentypen deklarieren, z.B.: `def function(a: float, ls: list) -> bool:`
+    - assertions einbauen
+- for-Schleife bei Matrix-Vektor-Mult. einführen (Produkt quasi per Hand berechnen)
+- Determinante einer Matrix + Visualisierung mithilfe von Parallelogramm
 
 # Übersicht alt
 
