@@ -43,10 +43,6 @@
 - Anmerkung: Es wäre vorher sinnvoll Logik und Variablentypen einzuführen
 
 # Brainstorm weitere Ideen
-- Funktionen:
-    - default-Werte setzen
-    - Datentypen deklarieren, z.B.: `def function(a: float, ls: list) -> bool:`
-    - assertions einbauen
 - for-Schleife bei Matrix-Vektor-Mult. einführen (Produkt quasi per Hand berechnen)
 - Determinante einer Matrix + Visualisierung mithilfe von Parallelogramm
 - Blatt04: 
