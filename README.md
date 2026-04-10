@@ -17,6 +17,15 @@
 - Einführung in Listen
 - Rechnen mit Listen
 
+## Datentypen/List_comp (noch nicht ausgearbeitet)
+- List-comprehension
+
+## Allelen (Anwendungsbsp. zur List-comprehension)
+- Eltern AC und CT, welche *Kinder* können daraus entstehen
+- Möglichkeiten in alph. Reihenfolge darstellen (CT statt TC)
+- Doppelte Möglichkeiten entfernen
+- Wahrscheinlichkeit für Möglichkeiten berechnen
+
 ## Blätter/Blatt01
 - Vektoren in `python`, einmal als `tuple`, einmal als `numpy-array`.
 - Vor- und Nachteile der zwei Methoden
