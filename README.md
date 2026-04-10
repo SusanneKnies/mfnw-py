@@ -21,6 +21,7 @@
 - List-comprehension
 
 ## Allelen (Anwendungsbsp. zur List-comprehension)
+**Muss noch auskommentiert werden**
 - Eltern AC und CT, welche *Kinder* können daraus entstehen
 - Möglichkeiten in alph. Reihenfolge darstellen (CT statt TC)
 - Doppelte Möglichkeiten entfernen
