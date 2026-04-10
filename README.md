@@ -67,10 +67,9 @@
 # Brainstorm weitere Ideen
 - for-Schleife bei Matrix-Vektor-Mult. einführen (Produkt quasi per Hand berechnen)
 - Determinante einer Matrix + Visualisierung mithilfe von Parallelogramm
-- Blatt04: 
-    - List-Comprehension genauer erläutern
 - Hinweise zur Reihenfolge der Ausführung der Zellen. (z.B. wenn `np` irgendwo verwendet wird muss vorher `import numpy as np` 
 ausgeführt werden). Ebenso Hinweis zu Initialisierung von Werten.
+- Monte-Carlo Simulation zur Integral Berechnung (dabei random fkt. einführen). -> Weitere Idee für random-fkt: Glücksspiel simulieren und plotten
 
 
 # Übersicht alt
