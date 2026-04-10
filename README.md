@@ -5,6 +5,18 @@
 - Einfacher Code um die Fkt. $x^2$ zu plotten
 - Kleinere ÜA um Parameter im Plot zu ändern
 
+## Blätter/Blatt00a
+- Math. Grundoperationen
+- Variablen erstellen
+
+## Blätter/Blatt00b
+- Datentypen unterscheiden (strings, ints, floats)
+- Datentypen umwandeln
+
+## Datentypen/Listen
+- Einführung in Listen
+- Rechnen mit Listen
+
 ## Blätter/Blatt01
 - Vektoren in `python`, einmal als `tuple`, einmal als `numpy-array`.
 - Vor- und Nachteile der zwei Methoden
